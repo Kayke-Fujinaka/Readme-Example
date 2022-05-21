@@ -1,10 +1,10 @@
-# TÍTULO DO PROJETO
+<h1 align="center">(EMOJI) TÍTULO DO PROJETO</h1>
 
 <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
 
->  Descrição do projeto (1 a 3 linhas)
+> 🔎 Descrição do projeto (1 a 3 linhas)
 
-Confira a aplicação: COLOCAR O LINK <br>
+🗔 Confira a aplicação: https://www.linkedin.com/in/kayke-fujinaka/ <br>
 
 ## :page_facing_up: Explicação
 
@@ -19,9 +19,18 @@ O site tem no total X páginas, sendo elas:
 - **Example 2:** Lorem ipsum dolor sit amet.
 - **Example 3:** Lorem ipsum dolor sit amet.
 
-## :dart: Etapas ##
+## ⚔️ Desafio
 
-Colocar as etapas do que você fez no projeto
+:heavy_check_mark: Desafio 1
+:x: Desafio 2
+:x: Desafio 3
+:x: Desafio 4
+:x: Desafio 5
+--- ⚙️ Extra ---
+:heavy_check_mark: Desafio 1
+:x: Desafio 2
+
+## 🎯 Etapas ##
 
 :heavy_check_mark: Etapa 1;\
 :heavy_check_mark: Etapa 2;\
@@ -30,21 +39,21 @@ Colocar as etapas do que você fez no projeto
 :heavy_check_mark: Etapa 5;\
 :x: Projeto Finalizado;
 
-## :rocket: Tecnologias ##
+## 🚀 Tecnologias ##
 
-No projeto foram utilizadas as seguintes tecnologias:
+- [Example 1](https://www.linkedin.com/in/kayke-fujinaka/)
+- [Example 2](https://www.linkedin.com/in/kayke-fujinaka/)
+- [Example 3](https://www.linkedin.com/in/kayke-fujinaka/)
+- [Example 4](https://www.linkedin.com/in/kayke-fujinaka/)
 
-- [?](https://www.linkedin.com/in/kayke-fujinaka/)
-- [ReactJs](https://pt-br.reactjs.org/)
-- [React Router](https://v5.reactrouter.com/web/guides/quick-start)
-- [Styled-Components](https://styled-components.com/docs)
-- [React Hook Form](https://react-hook-form.com)
+## 📡 𝗔𝗣𝗜'𝘀 usadas na aplicação ##
 
-## :closed_book: Requisitos ##
+- (EMOJI) [Example 1](https://www.linkedin.com/in/kayke-fujinaka/)
+- (EMOJI) [Example 2](https://www.linkedin.com/in/kayke-fujinaka/)
 
-Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
+## :closed_book: Como usar? ##
 
-## :checkered_flag: Começando ##
+Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
 
 ```bash
 # Clone this project
