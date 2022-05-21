@@ -21,13 +21,13 @@ O site tem no total X páginas, sendo elas:
 
 ## ⚔️ Desafio
 
-:heavy_check_mark: Desafio 1
-:x: Desafio 2
-:x: Desafio 3
-:x: Desafio 4
-:x: Desafio 5
---- ⚙️ Extra ---
-:heavy_check_mark: Desafio 1
+:heavy_check_mark: Desafio 1\
+:x: Desafio 2\
+:x: Desafio 3\
+:x: Desafio 4\
+:x: Desafio 5\
+--- ⚙️ Extra ---\
+:heavy_check_mark: Desafio 1\
 :x: Desafio 2
 
 ## 🎯 Etapas ##
@@ -46,7 +46,7 @@ O site tem no total X páginas, sendo elas:
 - [Example 3](https://www.linkedin.com/in/kayke-fujinaka/)
 - [Example 4](https://www.linkedin.com/in/kayke-fujinaka/)
 
-## 📡 𝗔𝗣𝗜'𝘀 usadas na aplicação ##
+## 📡 API'𝘀 usadas na aplicação ##
 
 - (EMOJI) [Example 1](https://www.linkedin.com/in/kayke-fujinaka/)
 - (EMOJI) [Example 2](https://www.linkedin.com/in/kayke-fujinaka/)
