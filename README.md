@@ -32,12 +32,12 @@ O site tem no total X páginas, sendo elas:
 
 ## 🎯 Etapas ##
 
-:heavy_check_mark: Etapa 1;\
-:heavy_check_mark: Etapa 2;\
-:heavy_check_mark: Etapa 3;\
-:heavy_check_mark: Etapa 4;\
-:heavy_check_mark: Etapa 5;\
-:x: Projeto Finalizado;
+:heavy_check_mark: Etapa 1\
+:heavy_check_mark: Etapa 2\
+:heavy_check_mark: Etapa 3\
+:heavy_check_mark: Etapa 4\
+:heavy_check_mark: Etapa 5\
+:x: Projeto Finalizado
 
 ## 🚀 Tecnologias ##
 
