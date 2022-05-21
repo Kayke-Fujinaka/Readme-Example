@@ -37,6 +37,7 @@ O site tem no total X páginas, sendo elas:
 :heavy_check_mark: Etapa 3\
 :heavy_check_mark: Etapa 4\
 :heavy_check_mark: Etapa 5\
+:heavy_check_mark: Etapa 6\
 :x: Projeto Finalizado
 
 ## 🚀 Tecnologias ##
